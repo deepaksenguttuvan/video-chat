@@ -12,7 +12,7 @@
     "url": "https://github.com/mdn/samples-server.git"
   },
   "scripts": {
-    "postinstall": ""
+    "start": "node index.js"
   },
   "dependencies": {
     "webrtc-adapter": "^1.4.0",
